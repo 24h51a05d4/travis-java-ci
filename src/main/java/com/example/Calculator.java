@@ -1,7 +1,9 @@
 //main code
 package com.example;
+//explanation
 // Demonstration of Continuous Integration using Travis CI d
-public class Calculator {
+public class Calculator 
+{
     
     public int add(int a, int b) {
         return a + b;
